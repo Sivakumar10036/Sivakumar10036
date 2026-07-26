@@ -1,9 +1,7 @@
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
 ###
-
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
-
+<p data-importer="text" align="left">Hi, I'm <b>Siva Kumar</b>, and I'm currently pursuing a <b>Bachelor of Technology (B.Tech)</b> in <b>Computer Science and Engineering</b> at <b>VIT-AP University</b>, Andhra Pradesh, India.</p>
 ###
 
 <h2 data-importer="text" align="left">About me</h2>
