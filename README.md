@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">✨ Turning coffee into code since 2023<br>📚 Currently exploring Machine Learning, Full-Stack Development, Data Structures & Algorithms, and Artificial Intelligence<br>🎯 Goal: To build impactful software, contribute to Open Source, and grow into a skilled Software Development Engineer (SDE)<br>🎲 Fun fact: I enjoy debugging tricky problems almost as much as building new projects!</p>
 
 ###
 
