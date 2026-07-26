@@ -55,3 +55,21 @@
 </div>
 
 ###
+<p align="left">
+  <a href="https://www.linkedin.com/in/sivakumar10036/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://leetcode.com/u/sivakumar10036/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+
+  <a href="mailto:rsiva19022005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Siva+Kumar;Aspiring+Software+Development+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer" />
+</p>
